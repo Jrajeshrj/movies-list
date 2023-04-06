@@ -4,3 +4,5 @@ RRR                             -                   Rajamouli
 Chathrapathi                    -                   Rajamouli
 Balagam                         -                   Venu
 Pusha                           -                   Aukumar
+Tamil1                          -                   tamil#1
+Tamil2                          -                   tamil#2
